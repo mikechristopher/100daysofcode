@@ -36,6 +36,10 @@
     padding: 0px 15px 0px 25px;
     vertical-align: center;
   }
+
+  .post-roll {
+      padding-left: 25px;
+  }
   
   .anchor a {
     color: #fff;
