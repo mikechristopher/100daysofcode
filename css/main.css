@@ -64,6 +64,11 @@
 
   .sep {
     padding-bottom: 10px;
+    color: #B68000;
+  }
+
+  .post-title {
+    color: #B68000;
   }
   /* TODO: Review rest of CSS in order to confirm its all being used and strip out any uncessary from main site. */
 
