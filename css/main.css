@@ -61,7 +61,8 @@
     color: #B68000;
     text-decoration: underline;
   }
-  
+  /* TODO: Review rest of CSS in order to confirm its all being used and strip out any uncessary from main site. */
+
   .social {
     padding: 20px 0px 0px 40px;
   }
