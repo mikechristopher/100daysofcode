@@ -1,2 +1,4 @@
 name: 100 Days of Code, Mike Nolan
 markdown: kramdown
+plugins:
+  - jemoji
