@@ -61,6 +61,10 @@
     color: #B68000;
     text-decoration: underline;
   }
+
+  .sep {
+    padding-bottom: 10px;
+  }
   /* TODO: Review rest of CSS in order to confirm its all being used and strip out any uncessary from main site. */
 
   .social {
