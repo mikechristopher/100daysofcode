@@ -41,25 +41,25 @@
     padding-left: 25px;
 }
   
-  .anchor a {
-    color: #fff;
+  .container a {
+    color: #FFB300;
   }
   
-  .anchor a:link {
-    color: #fff;
+  .container a:link {
+    color: #FFB300;
   }
   
-  .anchor a:active {
-    color: #fff;
+  .container a:active {
+    color: #FFB300;
   }
   
-  .anchor a:visited {
-    color: #fff;
+  .container a:visited {
+    color: #FFB300;
   }
   
-  .anchor a:hover {
-    color: #fff;
-    text-decoration: none;
+  .container a:hover {
+    color: #B68000;
+    text-decoration: underline;
   }
   
   .social {
