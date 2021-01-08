@@ -1,4 +1,4 @@
-/* CP_DoFullRefresh */
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap');
 
 .page {
     background-color: #000;
@@ -70,9 +70,7 @@
   .post-title {
     color: #B68000;
   }
-
-  @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap');
-
+ 
 .sig {
   font-family: 'Dancing Script', cursive;
 	font-size: 36px;
