@@ -4,9 +4,9 @@ title: "A new day - day 2"
 date: 2020-01-07
 ---
 
-#### ***What have I completed today*** :white_check_mark:
-
 So today has been mainly made up of making small amendments to this blog so as to make it look a bit nicer going forward if anyone else decides to take a look and read through.
+
+#### ***What have I completed today*** :white_check_mark:
 
 - Removed default post - this keeps the nice listing of the dates in order to show day by day.
 - Updated CSS on post page - Taken away from default and instead of having white bg colour its now matching the rest of the site.  This was primarily down to the way it was looking for the CSS and not looking at the root directory.
