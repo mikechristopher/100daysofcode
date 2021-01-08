@@ -19,4 +19,4 @@ So today has been mainly made up of making small amendments to this blog so as t
 
 #### ***What have I been reading?*** :books:
 
-- Markdown formatting guides - This is becoming key seeing as each daily post is in MD format and therefore to make things nice and quick when writing posts its useful to know the various formatting functionality thats easily available. 
+- Markdown formatting guides - This is becoming key seeing as each daily post is in MD format and therefore to make things nice and quick when writing posts its useful to know the various formatting functionality thats easily available.

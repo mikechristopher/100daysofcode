@@ -63,14 +63,21 @@
   }
 
   .sep {
-    padding-bottom: 10px;
-    color: #B68000;
+    height: 2px;
+    width: 60%;
+    background: gold;
+    background: linear-gradient(90deg, hsl(0, 0%, 20%), hsl(25, 75%, 70%), hsl(0, 0%, 20%));
   }
 
   .post-title {
     color: #B68000;
   }
- 
+
+  .post {
+    padding-right: 30px;
+    padding-top: 10px;
+  }
+
 .sig {
   font-family: 'Dancing Script', cursive;
 	font-size: 36px;
