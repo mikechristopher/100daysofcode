@@ -2,6 +2,7 @@
 layout: post
 title: "It is finally Friday! - day 3"
 date: 2020-01-08
+categories: post
 ---
 
 It has been a long week! Feels like this week alone has stretched out to a month!  To be honest there was not a lot done today as had a list of personal stuff that had to be done as long as my arm but got into the habit now of spending time every weekday morning focused on personal projects. I will aim also to check in at weekends on anything I am reading when away from the PC.
