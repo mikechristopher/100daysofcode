@@ -9,39 +9,3 @@ title: 100 Days of Code
     <li><span>{{ post.date | date_to_string }}</span> » <a href="/100daysofcode{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
   {% endfor %}
 </ul>
-
-
-<a name="posts"></a>
-<archive>
-  <name>Posts</name>
-  {%- assign posts = site.posts | where:"category-name","post" -%}
-  {%- assign groupedByYear = posts | group_by_exp:"post","post.date | date:'%Y' " -%}
-  {% assign groupedByMonth = yearitem.items | group_by_exp:"post","post.date | date:'%m %B'" | sort:'name' | reverse %}
-
-  <!-- total posts: {{ posts.size }} -->
-
-  {%- for yearitem in groupedByYear -%}
-  <yearlist>
-    <year>{{ yearitem.name }}</year>
-
-    <list>
-    {%- for item in yearitem.items -%}
-      <item>
-        <date>{{ item.date | date:'%B %e'}}</date>
-        <span><a href="{{ item.url }}">{{ item.title }}</a></span>
-      </item>
-    {% endfor %}
-    </list>
-  </yearlist>
-  {% endfor %}
-
-  {%- for monthitem in groupedByMonth -%}
-  {%- assign month = monthitem.name | split:" " %}
-  <p>
-    <h2>{{ month[1] }}</h2>
-    {%- for item in monthitem.items -%}
-      <h3>{{ item.date | date:'%e'}}</h3> <a href="{{ item.url }}">{{ item.title }}</a><br/>
-    {% endfor %}
-  </p>
-{% endfor %}
-</archive>
