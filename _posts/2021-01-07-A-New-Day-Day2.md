@@ -2,7 +2,7 @@
 layout: post
 title: "A new day - day 2"
 date: 2020-01-07
-categories: post
+category-name: post
 ---
 
 So today has been mainly made up of making small amendments to this blog so as to make it look a bit nicer going forward if anyone else decides to take a look and read through..
