@@ -5,7 +5,7 @@ date: 2020-01-11
 category-name: post
 ---
 
-So the start of a new week and coincidentally it also happens to be my birthday today.  So celebrating it working as just another yearly milestone to pass :).
+So the start of a new week and coincidentally it also happens to be my birthday today.  So celebrating it working as just another yearly milestone to pass :)
 
 #### ***What have I completed today*** :white_check_mark:
 
