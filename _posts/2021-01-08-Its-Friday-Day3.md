@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "It is finally Friday! - day 3"
-date: 2020-01-08
+date: 2021-01-08
 category-name: post
 ---
 
