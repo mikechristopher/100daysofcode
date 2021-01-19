@@ -17,4 +17,4 @@ category-name: post
 
 #### ***What have I been reading / watching?*** :books: :tv:
 
-- Nothing as of yet today
+- Spent hours reading up on Tailwind CSS and looks like it is certainly the route I want to undertake over Bootstrap.  The one thing I found with bootstrap is that every thing felt very sameish everywhere you went.  What I like about the look of tailwind is how extensible it is - especially with things like colour schemes etc. So the next project - will be looking to use that.
