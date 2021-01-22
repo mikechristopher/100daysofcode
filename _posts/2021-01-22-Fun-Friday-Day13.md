@@ -9,7 +9,7 @@ Over half way done on the ES6 modules on FCC today.  Getting in good stead and u
 
 For example - when learning about dot or bracket notations - this below certainly seems easier to read
 
-```JS
+```javascript
 const LOCAL_FORECAST = {
   yesterday: { low: 61, high: 75 },
   today: { low: 64, high: 77 },
