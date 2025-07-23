@@ -155,9 +155,10 @@
 .sig {
 font-family: 'Dancing Script', cursive;
 font-size: 36px;
+margin-top: 50px;
 
 }
 
 h4 {
-  padding-top: 5px;
+  margin-top: 50px;
 }
