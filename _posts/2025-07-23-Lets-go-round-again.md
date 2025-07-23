@@ -10,6 +10,7 @@ It actually started a few weeks ago in which I have completed refreshed my knowl
 
 So today has been mainly made up of making small amendments to this blog so as to make it look a bit nicer going forward if anyone else decides to take a look and read through - again! With the aim of actually keeping track of what I am doing and learning as I go.
 
+
 #### ***What is next on the list*** :pencil2:
 
 - Finish the CSS Curriculum on FCC
