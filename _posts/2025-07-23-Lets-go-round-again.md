@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Lets go round again! Day 1"
+title: "Day 1 - Lets go round again!"
 date: 2025-07-23
 ---
 
