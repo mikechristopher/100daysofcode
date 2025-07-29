@@ -28,3 +28,4 @@ date: 2025-07-29
 - SSL Cert Formats. Difference between CRT, PEM (Privacy Enhanced Mail - base64 encoded) & PFX certs (Personal Information Exchange - binary format).
 - Powershell scripting
 - <a href="https://dev.to/dev_frank/the-challenges-of-self-learning-programming-and-how-to-overcome-them-119f">https://dev.to/dev_frank/the-challenges-of-self-learning-programming-and-how-to-overcome-them-119f</a>
+- <a href="https://roadmap.sh/">https://roadmap.sh/</a>
