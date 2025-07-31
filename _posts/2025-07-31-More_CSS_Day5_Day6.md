@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Day 5 & Day 6 - Getting there with the CSS!"
+title: "Day 5 & Day 6 - Positioning & Attribute Selectors"
 date: 2025-07-31
 ---
 
