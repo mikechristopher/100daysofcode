@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Day 5 & Day 6 - Getting there with the CSS!"
-date: 2025-07-29
+date: 2025-07-31
 ---
 
 #### ***What have I completed today*** :white_check_mark:
