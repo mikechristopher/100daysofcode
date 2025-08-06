@@ -31,4 +31,4 @@ Javascript I expect is going to take some time as there is 916 steps in the whol
 
 - CSS Variables Review - mainly @property rules
 - <a href="https://frontendmasters.com/blog/infinite-marquee-animation-using-modern-css/"> Infinite Marquee using CSS</a>
-- https://www.xda-developers.com/windows-powershell-commands-every-power-user-should-know/
+- <a href="https://www.xda-developers.com/windows-powershell-commands-every-power-user-should-know/">Powershell commands</a>
