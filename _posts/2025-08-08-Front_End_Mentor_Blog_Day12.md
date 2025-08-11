@@ -14,7 +14,7 @@ Any suggestions on how I can improve are welcome!
 
 <img src="https://raw.githubusercontent.com/mikechristopher/100daysofcode/refs/heads/gh-pages/_images/FEM-Blog-Preview-Card.png" alt="Blog Preview Card" height="500"/>
 
-<img src="https://raw.githubusercontent.com/mikechristopher/100daysofcode/refs/heads/gh-pages/_images/FEM-Social.png" alt="Blog Preview Card" height="500"/>
+<img src="https://raw.githubusercontent.com/mikechristopher/100daysofcode/refs/heads/gh-pages/_images/FEM-Social.png" alt="Social Links" height="500"/>
 
 #### ***What have I completed today*** :white_check_mark:
 
