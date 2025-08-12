@@ -8,8 +8,8 @@ Back on to FreeCodeCamp today to get the CSS Section finished off!
 
 There were also a couple of new additions in the HTML section that needed completing.
 
-HTML - 214 out of 214 Steps Completed
-CSS - 1156 out of 1156 Steps Completed
+- HTML - 214 out of 214 Steps Completed
+- CSS - 1156 out of 1156 Steps Completed
 
 Is great to now finally move back into JavaScript again now that I have caught up and refreshed my knowledge / learnt some new CSS functionality and Semantic HTML.
 
