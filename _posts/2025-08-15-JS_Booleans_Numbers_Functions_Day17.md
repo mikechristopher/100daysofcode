@@ -8,7 +8,7 @@ date: 2025-08-15
 
 - HTML - 214 out of 214 Steps Completed
 - CSS - 1156 out of 1156 Steps Completed
-- JavaScript - 105 out of 916 Steps Completed
+- JavaScript - 138 out of 916 Steps Completed
 
 [Front End Mentor](https://www.frontendmentor.io/profile/mikechristopher)
 
