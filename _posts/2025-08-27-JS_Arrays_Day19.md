@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Day 18 - JavaScript - Arrays"
+title: "Day 19 - JavaScript - Arrays"
 date: 2025-08-27
 ---
 
