@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Day 41- Form Validation"
+title: "Day 41- Audio and Video Events"
 date: 2025-09-29
 ---
 
