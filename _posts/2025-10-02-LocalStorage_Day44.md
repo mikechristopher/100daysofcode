@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Day 43- Maps and Sets"
-date: 2025-10-01
+title: "Day 44- Local Storage"
+date: 2025-10-02
 ---
 
 A number of steps have been added as they have added more labs and workshops to the curriculum.  I will go back and revisit these once I have completed the main sections as a good way to recap my knowledge on those areas.
