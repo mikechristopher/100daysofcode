@@ -175,5 +175,5 @@ social-icons .fa:hover,
   padding-right: 2em;
 }
 .p {
-  margin: 10px 0 10px 0;
+  margin: 10px 0 10px 0 !important;
 }
