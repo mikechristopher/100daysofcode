@@ -57,6 +57,7 @@ Another day working on the space project website
   - Quiz: Asynchronous JavaScript Quiz
 
 - HTML Module Catchup of new additions - 14 Steps
+
 - JavaScript Module Catchup of new additions - 32 Steps
 
 #### **_What have I been reading?_** :books:

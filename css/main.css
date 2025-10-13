@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap");
 
 /* Global Variables */
 .page {
@@ -13,7 +13,7 @@
 }
 
 .navbar .nav,
-.navbar .nav>li {
+.navbar .nav > li {
   float: none;
   display: inline-block;
   vertical-align: middle;
@@ -26,23 +26,23 @@
 }
 
 .container a {
-  color: #FFB300;
+  color: #ffb300;
 }
 
 .container a:link {
-  color: #FFB300;
+  color: #ffb300;
 }
 
 .container a:active {
-  color: #FFB300;
+  color: #ffb300;
 }
 
 .container a:visited {
-  color: #FFB300;
+  color: #ffb300;
 }
 
 .container a:hover {
-  color: #B68000;
+  color: #b68000;
   text-decoration: underline;
 }
 
@@ -75,7 +75,7 @@
 
 social-icons .fa:hover,
 .social-icons .fa:active {
-  color: #FFF;
+  color: #fff;
   -webkit-box-shadow: 1px 1px 3px #333;
   -moz-box-shadow: 1px 1px 3px #333;
   box-shadow: 1px 1px 3px #333;
@@ -111,12 +111,12 @@ social-icons .fa:hover,
 
 .social-icons .fa-linkedin,
 .social-icons .fa-linkedin-square {
-  background-color: #0085AE;
+  background-color: #0085ae;
 }
 
 .social-icons .fa-twitter,
 .social-icons .fa-twitter-square {
-  background-color: #32CCFE;
+  background-color: #32ccfe;
 }
 
 .list-inline li {
@@ -128,9 +128,6 @@ social-icons .fa:hover,
 
 /* Index of Posts */
 
-
-
-
 /* Post */
 
 .sep {
@@ -141,7 +138,7 @@ social-icons .fa:hover,
 }
 
 .post-title {
-  color: #B68000;
+  color: #b68000;
 }
 
 .post {
@@ -150,10 +147,9 @@ social-icons .fa:hover,
 }
 
 .sig {
-  font-family: 'Dancing Script', cursive;
+  font-family: "Dancing Script", cursive;
   font-size: 36px;
   margin-top: 50px;
-
 }
 
 .post h4 {
@@ -177,4 +173,7 @@ social-icons .fa:hover,
 .PageNavigation .next {
   text-align: right;
   padding-right: 2em;
+}
+.p {
+  margin: 10px 0 10px 0;
 }
