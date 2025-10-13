@@ -39,7 +39,7 @@ Another day working on the space project website
   - Review: Recursion Review
   - Quiz: Recursion Quiz
 
-- Functional Programming
+- Functional Programming - 23 Steps
 
   - Theory: Understanding Functional Programming
   - Workshop: Build a Recipe Ingredient Converter
@@ -47,7 +47,7 @@ Another day working on the space project website
   - Review: JavaScript Functional Programming Review
   - Quiz: JavaScript Functional Programming Quiz
 
-- Asynchronous JavaScript
+- Asynchronous JavaScript - 36 Steps
 
   - Theory: Understanding Asynchronous JavaScript
   - Workshop: Build a fCC Authors Page
@@ -56,8 +56,8 @@ Another day working on the space project website
   - Review: Asynchronous JavaScript Review
   - Quiz: Asynchronous JavaScript Quiz
 
-- HTML Module Catchup of new additions
-- JavaScript Module Catchup of new additions
+- HTML Module Catchup of new additions - 14 Steps
+- JavaScript Module Catchup of new additions - 32 Steps
 
 #### **_What have I been reading?_** :books:
 
