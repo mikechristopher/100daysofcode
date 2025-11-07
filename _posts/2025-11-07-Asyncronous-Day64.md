@@ -6,9 +6,9 @@ date: 2025-11-07
 
 [FreeCodeCamp Modules](https://www.freecodecamp.org/mikechristopher)
 
-- HTML - 210 out of 269 Steps Completed
+- HTML - 210 out of 285 Steps Completed
 - CSS - 1156 out of 1173 Steps Completed
-- JavaScript - 961 out of 1038 Steps Completed
+- JavaScript - 964 out of 1038 Steps Completed
 
 [Front End Mentor](https://www.frontendmentor.io/profile/mikechristopher)
 
@@ -18,14 +18,11 @@ date: 2025-11-07
 
 - Asynchronous JavaScript
 
-  - Lab: Build a Weather App (In Progress)
-
-#### **_What is next on the list_** :pencil2:
-
-- Asynchronous JavaScript
-
+  - Lab: Build a Weather App
   - Review: Asynchronous JavaScript Review
   - Quiz: Asynchronous JavaScript Quiz
+
+#### **_What is next on the list_** :pencil2:
 
 - HTML Module Catchup of new additions
 
