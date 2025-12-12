@@ -18,15 +18,10 @@ date: 2025-12-12
 #### **_What have I completed today_** :white_check_mark:
 
 - CSS Module Catchup of new additions
-
   - Lab: Design a Feature Selection Page
-
 - Responsive Web Design Certification Exam
-
 - Code Editors
-
   - Theory: Working with Code Editors and IDEs
-
 - Bash Fundamentals
   - Theory: Understanding the Command Line and Working with Bash
   - Workshop: Build a Boilerplate
@@ -36,7 +31,6 @@ date: 2025-12-12
 #### **_What is next on the list_** :pencil2:
 
 - JavaScript Module Catchup of new additions
-
 - SQL and PostgreSQL
 - Build a Celestial Bodies Database
 
