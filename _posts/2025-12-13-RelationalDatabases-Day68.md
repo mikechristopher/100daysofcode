@@ -1,0 +1,36 @@
+---
+layout: post
+title: "Day 68- FCC: Relational Databases"
+date: 2025-12-13
+---
+
+[FreeCodeCamp Modules](https://www.freecodecamp.org/mikechristopher)
+
+- HTML - 276 out of 276 Steps Completed
+- CSS - 1153 out of 1153 Steps Completed
+- JavaScript - 964 out of 1038 Steps Completed
+- Relational Databases - 12 out of 63 Steps Completed
+
+[Front End Mentor](https://www.frontendmentor.io/profile/mikechristopher)
+
+- 8 Challenges Completed
+
+#### **_What have I completed today_** :white_check_mark:
+
+- SQL and PostgreSQL
+  - Theory: Working with Relational Databases
+
+#### **_What is next on the list_** :pencil2:
+
+- SQL and PostgreSQL
+
+  - Workshop: Build a Database of Video Game Characters
+  - Review: SQL and PostgreSQL Review
+  - Quiz: SQL and PostgreSQL Quiz
+  - Build a Celestial Bodies Database
+
+- JavaScript Module Catchup of new additions
+
+#### **_What have I been reading?_** :books:
+
+-
